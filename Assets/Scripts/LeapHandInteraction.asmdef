@@ -1,0 +1,16 @@
+{
+    "name": "LeapHandInteraction",
+    "rootNamespace": "LeapHandInteraction",
+    "references": [
+        "Ultraleap.Tracking"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
